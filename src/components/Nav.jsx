@@ -18,6 +18,9 @@ const Nav = () => {
         <li>
           <NavLink to={"/contact"}>Contact</NavLink>
         </li>
+        <li>
+          <NavLink to={"/nest"}>NEST</NavLink>
+        </li>
       </ul>
     </div>
   );
